@@ -1,0 +1,2 @@
+class SuperNamesController < ApplicationController
+end

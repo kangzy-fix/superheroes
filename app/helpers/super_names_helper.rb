@@ -1,0 +1,2 @@
+module SuperNamesHelper
+end
